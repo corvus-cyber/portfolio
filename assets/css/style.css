@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-    background-color: steelblue;
+    background-color: #76CBFF;
 } 
 
 .img-fluid{
@@ -132,7 +132,7 @@ h6{
 .footer-copyright {
     border-top: #d9dcd6;
     border-top-width: 1%;
-    background-color: steelblue;
+    background-color: #76CBFF;
     color:  black
 }
 
