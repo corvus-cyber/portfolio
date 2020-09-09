@@ -4,7 +4,11 @@ body {
 }
 
 .navbar {
-    background-color: #76CBFF;
+    
+    background-color: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-width: 15px;
+    border-bottom-color: #76CBFF;
 } 
 
 .img-fluid{
@@ -15,8 +19,10 @@ body {
     color: black;
 }
 
+
 .navbar-light .navbar-nav .nav-link {
-    font-size: larger;
+    font-size: large;
+    color: black
 }
 
 /* Formatting for all of the pages */
@@ -57,10 +63,10 @@ h6{
 }
             /*Provides background color for the different columns in the index page*/
                 .aboutMe {
-                 background-color:silver;
+                 background-color:#ffffff;
                  box-shadow: 0 0 5px}
                 .Education {
-                    background-color:silver;
+                    background-color:#ffffff;
                     padding-top: 2%;
                     padding-left: 2%;
                     margin-bottom: 2%;
@@ -70,7 +76,7 @@ h6{
                     text-indent: 4%;
                 }
                 .skills {
-                    background-color:silver;
+                    background-color:#ffffff;
                     padding-left: 2%;
                     padding-right: 2%;
                     box-shadow: 0 0 5px
@@ -79,17 +85,17 @@ h6{
                     margin-right: 5%;
                 }
                 .europe {
-                    background-color: silver;
+                    background-color: #ffffff;
                     box-shadow: 0 0 5px
                 }
 
                 .frazierGroup {
-                    background-color: silver;
+                    background-color: #ffffff;
                     box-shadow: 0 0 5px
                 }
 
                 .KBH {
-                    background-color: silver;
+                    background-color: #ffffff;
                     box-shadow: 0 0 5px
                 }
 
