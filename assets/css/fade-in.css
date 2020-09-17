@@ -6,6 +6,9 @@
     max-width: 30%;
 }
 
+.evaporate {
+    display: none;
+}
 .fade-in {
     animation: fadeIn ease 7s;
     -webkit-animation: fadeIn ease 7s;

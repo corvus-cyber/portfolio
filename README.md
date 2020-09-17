@@ -4,12 +4,12 @@
 1. [Process](#Process)
 2. [Issues](#Issues)
 3. [What I Learned](#What_I_Learned)
-4. [Credits](#Credits)
+4. [Credit](#Credit)
 5. [Links](#Links)
 6. [Screenshots](#Screenshots)
 
 # Purpose: 
-The purpose of this assignment was to take the refined portfolio we built in assignment seven and improve it, making sure to add all of our past assignments onto the portfolio page and that there is a downloadable resume available. By making the webpage more presentable we were able to take what was originally an acceptable second attempt at manipulating css and html and make a portfolio website that we could actually be proud of; a page potential employers could view and see our capabilities. We were also instructed to update our github and linkedin pages. 
+The purpose of this assignment was to take the refined portfolio we built in following project one and improve upon it, making sure to add all of our past assignments onto the portfolio page and that there is a downloadable resume available. By making the webpage more presentable we were able to take what was originally an acceptable second attempt at manipulating css and html and make a portfolio website that we could actually be proud of; a page potential employers could view and see our capabilities. We were also instructed to update our github and linkedin pages. 
 
 # Process 
 * First I downloaded my old portfolio into a new repo.
@@ -25,9 +25,12 @@ The purpose of this assignment was to take the refined portfolio we built in ass
 * Fixing the margins of the portfolio cards so that they wouldn't overlap during certain screen sizes. This took a lot of trial and error to get it right.
 * Changing the column sizes so that the portfolio cards would align as three on a row on a large screen, two on a medium screen, and one on a small screen
 
-
 # What_I_Learned:
 * It never hurts to return to old work and see what you can improve upon
+
+# Credit:
+* Tremaine Eto for explaining how to create a fade in and out effect with css:
+    - [Link to Website](https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08)
 
 # Links:
 * Deployed website: 
